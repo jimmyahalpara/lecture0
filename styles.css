@@ -1,0 +1,46 @@
+h1 {
+	font-family: Arial;
+	font-size: 28px;
+	font-weight: bolder;
+	color: yellow;
+	background: red;
+	height: 200px;
+	width: 100%;
+	padding: 20px;
+	border: 3px dotted blue;
+}
+
+p {
+	color: green;
+	text-align: justify;
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+th, td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 10px
+}
+
+th {
+	background: lightgray;
+}
+
+#top {
+	font-size: 36px;
+}
+#middle {
+	font-size: 24px;
+}
+#bottom {
+	font-size: 12px;
+}
+.name {
+	font-weight: bold;
+	font-family: arial;
+}
